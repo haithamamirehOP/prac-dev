@@ -1,0 +1,21 @@
+{
+  "squadName": "Avengers",
+  "homeTown": "WorldWide",
+  "formed": 2012,
+  "secretBase": "Avengers Tower",
+  "active": false,
+  "members": [
+    {
+      "name": "Iron Man",
+      "age": "Dead",
+      "secretIdentity": "Tony Stark...not so secret",
+      "powers": [
+        "A very powerful suit",
+        "Genius",
+        "billionaire",
+        "playboy",
+        "philanthropist"
+      ]
+    }
+  ]
+}

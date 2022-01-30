@@ -1,0 +1,28 @@
+{
+  "name": "cyp-prep",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "chai-colors": "^1.0.1",
+    "eslint": "^8.2.0",
+    "socket.io": "^4.3.1",
+    "start-server-and-test": "^1.14.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "open-cypress-desktop": "cypress open  --config userAgent=desktop",
+    "open-cypress-mobile": "cypress open  --config userAgent=mobile",
+    "run-cypress-desktop": "cypress run --env searched_item=watch --config userAgent=desktop",
+    "run-cypress-mobile": "cypress run --config userAgent=mobile",
+    "cy:run-lighthouse": "cypress run --headless --browser chrome --config integrationFolder=cypress/integration/lighthouse,userAgent=desktop"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@4tw/cypress-drag-drop": "^2.0.0",
+    "cypress": "^9.2.0",
+    "cypress-audit": "^1.1.0",
+    "cypress-xpath": "^1.6.2"
+  }
+}

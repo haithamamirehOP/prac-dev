@@ -1,0 +1,567 @@
+[
+    {
+        "pos": [
+            "top"
+        ],
+        "slotId": [
+            "top"
+        ],
+        "topx": [
+            "0"
+        ],
+        "hero": [
+            "true"
+        ],
+        "sizes": [
+            [
+                {
+                    "width": 728,
+                    "height": 90
+                },
+                {
+                    "width": 970,
+                    "height": 66
+                },
+                {
+                    "width": 970,
+                    "height": 250
+                },
+                {
+                    "width": 970,
+                    "height": 90
+                },
+                {
+                    "width": 7,
+                    "height": 1
+                },
+                {
+                    "width": 7,
+                    "height": 2
+                },
+                {
+                    "width": 1,
+                    "height": 1
+                },
+                "fluid"
+            ]
+        ]
+    },
+    {
+        "key": "topx-1",
+        "topx": [
+            "1"
+        ],
+        "slotId": [
+            "topx-1"
+        ],
+        "pos": [
+            "topx"
+        ],
+        "sizes": [
+            [
+                {
+                    "width": 728,
+                    "height": 90
+                },
+                {
+                    "width": 970,
+                    "height": 66
+                },
+                {
+                    "width": 970,
+                    "height": 250
+                },
+                {
+                    "width": 970,
+                    "height": 90
+                },
+                {
+                    "width": 1,
+                    "height": 1
+                },
+                "fluid"
+            ]
+        ]
+    },
+    {
+        "key": "topx-2",
+        "topx": [
+            "2"
+        ],
+        "slotId": [
+            "topx-2"
+        ],
+        "pos": [
+            "topx"
+        ],
+        "sizes": [
+            [
+                {
+                    "width": 728,
+                    "height": 90
+                },
+                {
+                    "width": 970,
+                    "height": 66
+                },
+                {
+                    "width": 970,
+                    "height": 250
+                },
+                {
+                    "width": 970,
+                    "height": 90
+                },
+                {
+                    "width": 1,
+                    "height": 1
+                },
+                "fluid"
+            ]
+        ]
+    },
+    {
+        "key": "topx-3",
+        "topx": [
+            "3"
+        ],
+        "slotId": [
+            "topx-3"
+        ],
+        "pos": [
+            "topx"
+        ],
+        "sizes": [
+            [
+                {
+                    "width": 728,
+                    "height": 90
+                },
+                {
+                    "width": 970,
+                    "height": 66
+                },
+                {
+                    "width": 970,
+                    "height": 250
+                },
+                {
+                    "width": 970,
+                    "height": 90
+                },
+                {
+                    "width": 1,
+                    "height": 1
+                },
+                "fluid"
+            ]
+        ]
+    },
+    {
+        "key": "ntv-home",
+        "sizes": [
+            [
+                {
+                    "width": 2,
+                    "height": 3
+                },
+                {
+                    "width": 1,
+                    "height": 1
+                },
+                "fluid"
+            ]
+        ],
+        "pos": [
+            "ntv-home"
+        ],
+        "slotId": [
+            "ntv-home"
+        ]
+    },
+    {
+        "key": "ntv-deskchannel-1",
+        "sizes": [
+            [
+                [
+                    2,
+                    3
+                ],
+                [
+                    1,
+                    1
+                ],
+                "fluid"
+            ]
+        ],
+        "slotId": [
+            "ntv-deskchannel-1"
+        ],
+        "pos": [
+            "ntv-deskchannel"
+        ],
+        "strnativekey": [
+            "e5tSBXbDmvyVwXbVB7dymzCc"
+        ],
+        "ntv-deskchannel": [
+            "1"
+        ],
+        "ntv-channel": [
+            "money"
+        ]
+    },
+    {
+        "key": "ntv-deskchannel-2",
+        "sizes": [
+            [
+                [
+                    2,
+                    3
+                ],
+                [
+                    1,
+                    1
+                ],
+                "fluid"
+            ]
+        ],
+        "slotId": [
+            "ntv-deskchannel-2"
+        ],
+        "pos": [
+            "ntv-deskchannel"
+        ],
+        "strnativekey": [
+            "e5tSBXbDmvyVwXbVB7dymzCc"
+        ],
+        "ntv-deskchannel": [
+            "2"
+        ],
+        "ntv-channel": [
+            "innovation"
+        ]
+    },
+    {
+        "key": "ntv-deskchannel-3",
+        "sizes": [
+            [
+                [
+                    2,
+                    3
+                ],
+                [
+                    1,
+                    1
+                ],
+                "fluid"
+            ]
+        ],
+        "slotId": [
+            "ntv-deskchannel-3"
+        ],
+        "pos": [
+            "ntv-deskchannel"
+        ],
+        "strnativekey": [
+            "e5tSBXbDmvyVwXbVB7dymzCc"
+        ],
+        "ntv-deskchannel": [
+            "3"
+        ],
+        "ntv-channel": [
+            "lifestyle"
+        ]
+    },
+    {
+        "key": "ntv-deskchannel-4",
+        "sizes": [
+            [
+                [
+                    2,
+                    3
+                ],
+                [
+                    1,
+                    1
+                ],
+                "fluid"
+            ]
+        ],
+        "slotId": [
+            "ntv-deskchannel-4"
+        ],
+        "pos": [
+            "ntv-deskchannel"
+        ],
+        "strnativekey": [
+            "e5tSBXbDmvyVwXbVB7dymzCc"
+        ],
+        "ntv-deskchannel": [
+            "4"
+        ],
+        "ntv-channel": [
+            "billionaires"
+        ]
+    },
+    {
+        "key": "ntv-deskchannel-5",
+        "sizes": [
+            [
+                [
+                    2,
+                    3
+                ],
+                [
+                    1,
+                    1
+                ],
+                "fluid"
+            ]
+        ],
+        "slotId": [
+            "ntv-deskchannel-5"
+        ],
+        "pos": [
+            "ntv-deskchannel"
+        ],
+        "strnativekey": [
+            "e5tSBXbDmvyVwXbVB7dymzCc"
+        ],
+        "ntv-deskchannel": [
+            "5"
+        ],
+        "ntv-channel": [
+            "leadership"
+        ]
+    }
+]
+[
+    {
+        "pos": [
+            "top"
+        ],
+        "slotId": [
+            "top"
+        ],
+        "m_mv": [
+            "slotWaiting"
+        ],
+        "m_gv": [
+            "slotWaiting"
+        ],
+        "hero": [
+            "true"
+        ],
+        "topx": [
+            "0"
+        ],
+        "iasId": [
+            "ca7697fc-4c35-11ec-a62b-024bf4a6d028"
+        ]
+    },
+    {
+        "pos": [
+            "topx"
+        ],
+        "slotId": [
+            "topx-1"
+        ],
+        "amzniid": [],
+        "amznbid": [
+            "2"
+        ],
+        "amznp": [
+            "2"
+        ],
+        "amznsz": [
+            "0x0"
+        ],
+        "m_mv": [
+            "slotWaiting"
+        ],
+        "m_gv": [
+            "slotWaiting"
+        ],
+        "topx": [
+            "1"
+        ],
+        "iasId": [
+            "ca7893ca-4c35-11ec-bcc2-025e58922a4e"
+        ]
+    },
+    {
+        "pos": [
+            "topx"
+        ],
+        "slotId": [
+            "topx-2"
+        ],
+        "m_mv": [
+            "slotWaiting"
+        ],
+        "m_gv": [
+            "slotWaiting"
+        ],
+        "topx": [
+            "2"
+        ],
+        "iasId": [
+            "ca78e21d-4c35-11ec-a62b-024bf4a6d028"
+        ]
+    },
+    {
+        "pos": [
+            "topx"
+        ],
+        "slotId": [
+            "topx-3"
+        ],
+        "m_mv": [
+            "slotWaiting"
+        ],
+        "m_gv": [
+            "slotWaiting"
+        ],
+        "topx": [
+            "3"
+        ],
+        "iasId": [
+            "ca790896-4c35-11ec-8fc3-0ae761671616"
+        ]
+    },
+    {
+        "pos": [
+            "ntv-home"
+        ],
+        "slotId": [
+            "ntv-home"
+        ],
+        "m_mv": [
+            "slotWaiting"
+        ],
+        "m_gv": [
+            "slotWaiting"
+        ],
+        "strnativekey": [
+            "QLWstPVbbpcwuyqK5ijhxZvL"
+        ],
+        "iasId": [
+            "ca77f768-4c35-11ec-874a-02467abe7cd0"
+        ]
+    },
+    {
+        "pos": [
+            "ntv-deskchannel"
+        ],
+        "slotId": [
+            "ntv-deskchannel-1"
+        ],
+        "m_mv": [
+            "slotNoHistData"
+        ],
+        "m_gv": [
+            "slotNoHistData"
+        ],
+        "strnativekey": [
+            "e5tSBXbDmvyVwXbVB7dymzCc"
+        ],
+        "ntv-deskchannel": [
+            "1"
+        ],
+        "ntv-channel": [
+            "money"
+        ]
+    },
+    {
+        "pos": [
+            "ntv-deskchannel"
+        ],
+        "slotId": [
+            "ntv-deskchannel-2"
+        ],
+        "m_mv": [
+            "slotNoHistData"
+        ],
+        "m_gv": [
+            "slotNoHistData"
+        ],
+        "strnativekey": [
+            "e5tSBXbDmvyVwXbVB7dymzCc"
+        ],
+        "ntv-deskchannel": [
+            "2"
+        ],
+        "ntv-channel": [
+            "innovation"
+        ]
+    },
+    {
+        "pos": [
+            "ntv-deskchannel"
+        ],
+        "slotId": [
+            "ntv-deskchannel-3"
+        ],
+        "m_mv": [
+            "slotNoHistData"
+        ],
+        "m_gv": [
+            "slotNoHistData"
+        ],
+        "strnativekey": [
+            "e5tSBXbDmvyVwXbVB7dymzCc"
+        ],
+        "ntv-deskchannel": [
+            "3"
+        ],
+        "ntv-channel": [
+            "lifestyle"
+        ]
+    },
+    {
+        "pos": [
+            "ntv-deskchannel"
+        ],
+        "slotId": [
+            "ntv-deskchannel-4"
+        ],
+        "m_mv": [
+            "slotNoHistData"
+        ],
+        "m_gv": [
+            "slotNoHistData"
+        ],
+        "strnativekey": [
+            "e5tSBXbDmvyVwXbVB7dymzCc"
+        ],
+        "ntv-deskchannel": [
+            "4"
+        ],
+        "ntv-channel": [
+            "billionaires"
+        ]
+    },
+    {
+        "pos": [
+            "ntv-deskchannel"
+        ],
+        "slotId": [
+            "ntv-deskchannel-5"
+        ],
+        "m_mv": [
+            "slotNoHistData"
+        ],
+        "m_gv": [
+            "slotNoHistData"
+        ],
+        "strnativekey": [
+            "e5tSBXbDmvyVwXbVB7dymzCc"
+        ],
+        "ntv-deskchannel": [
+            "5"
+        ],
+        "ntv-channel": [
+            "leadership"
+        ]
+    }
+]
