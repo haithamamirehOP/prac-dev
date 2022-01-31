@@ -1,7 +1,7 @@
 pipeline {
     agent any {
         stages {
-            stage('dependencies') {
+            stage("dep") {
                 steps {
                     echo 'installing the dep'
                 }
