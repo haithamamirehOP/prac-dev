@@ -24,8 +24,15 @@ pipeline {
             }
         }
         stage('Deploy') {
+            input {
+                message "Select the env"
+                ok "env selected"
+                parameters {
+                    choice(name:'ENV', choices: ['dev', 'staging', 'prod'], description: '')
+                }
+            }
             steps {
-                echo 'Deploying....'
+                echo "Deploying in ${ENV}"
             }
         }
     }
