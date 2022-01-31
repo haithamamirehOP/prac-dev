@@ -6,9 +6,6 @@ pipeline {
         stages {
             stage('dependencies') {
                 steps {
-                    echo 'installing the dep'
-                }
-                steps {
                     echo "this is version ${VERSION}"
                 }
             }
