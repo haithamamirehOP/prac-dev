@@ -6,16 +6,16 @@ pipeline {
                     echo 'installing the dep'
                 }
             }
-            // stage('run') {
-            //     steps {
+            stage('run') {
+                steps {
 
-            //     }
-            // }
-            // stage('test') {
-            //     steps {
+                }
+            }
+            stage('test') {
+                steps {
 
-            //     }
-            // }
+                }
+            }
         }
     }
 }
